@@ -16,6 +16,13 @@ git reset HEAD file   //暂存区回退到工作区
 git rm file
 git commit -m ""
 
+git branch
+git branch <name>
+git checkout <name>
+git checkout -b <name>
+git merge <name>
+git branch -d <name>
+
 
 ssh-keygen -t rsa -C "youremail@example.com"
 登陆GitHub，打开“Account settings”，“SSH Keys”页面：
