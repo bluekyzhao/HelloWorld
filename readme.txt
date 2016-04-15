@@ -22,6 +22,7 @@ git checkout <name>
 git checkout -b <name>
 git merge <name>
 git branch -d <name>
+git push origin :branch-name   //删除远程分支
 
 
 ssh-keygen -t rsa -C "youremail@example.com"
